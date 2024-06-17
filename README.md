@@ -1,5 +1,7 @@
 # Training css and html
 > status: Developing⚠️
+> 
+> language: PT-BR 
 ### it´s a exercise with html and css, with the focus in create a login and register forms with a pixel art aesthetic
 ## Some fields in main model is:
 + Email
