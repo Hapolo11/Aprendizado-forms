@@ -6,6 +6,8 @@
 ## Some fields in main model is:
 + Email
 + Password
++ login button
++ remender-me button
 ## Future changes in the project:
 + register screen
 + Forgot password screen
